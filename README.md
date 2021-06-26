@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagomotta7" alt="tiagomotta7" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJs, React Native, NodeJS, Express, MongoDB and GIT.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJs, React Native, NodeJS, NextJS, Express, MongoDB and GIT.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
